@@ -1,4 +1,4 @@
-# Databricks Code
+# SQL codes using in Databricks
 
 Here I used to save all SQL codes I'm using in Databricks.
 
