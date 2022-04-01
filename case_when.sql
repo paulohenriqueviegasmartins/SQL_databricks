@@ -64,7 +64,7 @@ FROM
   
   
 FROM db_siaf.base_cliente cliente
-WHERE ind_professor = 'S')
+WHERE ind_cliente = 'S')
 GROUP BY
 cpf_cliente,
 name_cliente
